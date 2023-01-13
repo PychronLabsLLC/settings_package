@@ -1,2 +1,2 @@
-multigraph.json
-test.json
+spectrum.multigraph.json
+spectrum.test.json
